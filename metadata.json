@@ -1,0 +1,8 @@
+{
+  "name": "CardioMaster 2025 - ESC Valvular Guidelines Exam Master",
+  "description": "Standardized visual master template for Cardiology Master's & Fellowship exams based on ESC/EACTS 2025 Valvular Heart Disease Guidelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
